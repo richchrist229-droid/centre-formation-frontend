@@ -1,3 +1,40 @@
+# Centre de formation : Interface React
+
+Interface web de gestion des étudiants, des formations et des inscriptions.
+Ce dépôt contient le frontend. L'API Laravel est dans le dépôt
+`centre-formation-backend`.
+
+## Fonctionnalités
+- Tableau de bord statistique
+- Gestion des étudiants (ajout, modification, suppression)
+- Recherche et filtres multicritères
+- Gestion des formations et des inscriptions
+
+## Technologies
+React (Vite), Axios, React Router, Recharts
+
+## Installation
+Prérequis : Node.js 18+, et l'API Laravel qui tourne sur http://127.0.0.1:8000
+
+    git clone https://github.com/richchrist229-droid/centre-formation-frontend.git
+    cd centre-formation-frontend
+    npm install
+    npm run dev
+
+Ouvre http://localhost:5173
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
